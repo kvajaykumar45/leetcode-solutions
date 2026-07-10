@@ -17,3 +17,4 @@ class Solution:
         for i in range(n):
             result.append(prefix[i]*suffix[i])
         return result
+    
